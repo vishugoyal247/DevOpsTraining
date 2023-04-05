@@ -11,3 +11,6 @@
 ## Task 4:
         👉 Setup of LoadBalancer with two Node like instance EC2 which was in private zone 
         👉 Having setup of Apache webserver and hit a loadbalancer DNS url -> Vishu Goyal / GLA University
+## Task 5:
+        👉 Setup of Certificate Manager SSL certificate for http --> https 
+        👉
